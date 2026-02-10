@@ -50,7 +50,7 @@ Não programamos por programar. Programamos para resolver problemas de outras pe
 Use seu pensamento crítico para filtrar o que não é essencial.
 Dê argumentos honestos sobre por que o recurso deveria ser incluído.
 Você leu este livro?
-Pode escrever um breve resumo?
+Você pode fornecer um breve artigo?
 </p></details>
 
 <details><summary>Use raciocínio baseado em nossos valores.</summary><p>
@@ -79,7 +79,7 @@ Adicionar apenas um único item por pull request facilita muito para todos os en
 🎥 - Vídeo/Palestra
 📖 - Livro
 📄 - Artigo online
-📜 - Artigo/Documento acadêmico
+📜 - Artigo/Documento
 ✅ - Checklist
 
 </p></details>
