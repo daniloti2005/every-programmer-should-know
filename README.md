@@ -5,47 +5,47 @@
 
    </a>
 
-### [Measure your Software Developer level against a cross-industry benchmark in 10 minutes!](https://mylevel.dev?utm_source=github&utm_medium=gh_link&utm_campaign=gh_sponsorship)
+### [Meça seu nível como Desenvolvedor de Software comparando com um benchmark entre indústrias em 10 minutos!](https://mylevel.dev?utm_source=github&utm_medium=gh_link&utm_campaign=gh_sponsorship)
 
-[Take a FREE quiz and get instant results - no email submission required](https://mylevel.dev?utm_source=github&utm_medium=gh_sublink&utm_campaign=gh_sponsorship)<br>
-*<sub>Created by this repo author</sub>*
+[Faça um quiz GRATUITO e obtenha resultados instantâneos - sem necessidade de enviar e-mail](https://mylevel.dev?utm_source=github&utm_medium=gh_sublink&utm_campaign=gh_sponsorship)<br>
+*<sub>Criado pelo autor deste repositório</sub>*
 
 </div>
 
-# Every Programmer Should Know :thinking:
-A collection of (mostly) technical things every software developer should know.
+# Todo Programador Deveria Saber :thinking:
+Uma coleção de coisas (principalmente) técnicas que todo desenvolvedor de software deveria saber.
 
-*These are resources I can recommend to every programmer regardless of their skill level or tech stack*
+*Estes são recursos que posso recomendar a todo programador, independentemente do nível de habilidade ou stack tecnológica*
 
-Highly opinionated :bomb:. Not backed by science.
-Comes in no particular order :recycle:
-
-<br>
-
-### :star: it and share with a friendly developer!  
+Altamente opinativo :bomb:. Não respaldado por ciência.
+Sem uma ordem específica :recycle:
 
 <br>
+
+### Dê uma :star: e compartilhe com um desenvolvedor amigo!  
+
+<br>
 <br>
 
-*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.
-But knowing the stuff will help you become better! :muscle:*
+*P.S. Você [não precisa saber](https://xkcd.com/1050/) tudo isso de cor para ser um programador.
+Mas conhecer essas coisas vai te ajudar a se tornar melhor! :muscle:*
 
-*P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
+*P.P.S. [Contribuições](CONTRIBUTING.md) são bem-vindas!*
 
 ----
 
-### Introduction
+### Introdução
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
+- :movie_camera: [40 Key Computer Science Concepts Explained In Layman's Terms](http://carlcheo.com/compsci)
 - :page_facing_up: [Computer Science Roadmap](https://roadmap.sh/computer-science)
 - :page_facing_up: [Community-driven Roadmaps for Developers](https://github.com/kamranahmedse/developer-roadmap)
 
-### Falsehoods
+### Falsas Crenças
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
-  💊 Curated list of falsehoods programmers believe in.
-  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
+  💊 Lista curada de falsas crenças em que programadores acreditam.
+  Confira coisas que você não sabe sobre Strings, Endereços, Nomes, Números, E-mails, Fusos Horários e Datas e mais.
 
-### Algorithms
+### Algoritmos
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Computer Science Distilled](https://www.goodreads.com/book/show/34189798-computer-science-distilled)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
@@ -53,14 +53,14 @@ But knowing the stuff will help you become better! :muscle:*
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
 
-### Data Structures
+### Estruturas de Dados
 -  📖 [Hello Algo](https://www.hello-algo.com/en/chapter_preface/about_the_book/)
 - :movie_camera: [UC Berkeley, Data Structures Course](https://sp19.datastructur.es/)
 - [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://people.csail.mit.edu/meyer/mcs.pdf)
 
-### Numbers
+### Números
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
 - :page_facing_up: [Floating Point Guide](http://floating-point-gui.de/)
 - :page_facing_up: [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#680)
@@ -73,18 +73,18 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [ASCII](https://www.youtube.com/watch?v=B1Sf1IhA0j4)
 - :movie_camera: [UTF-8](https://www.youtube.com/watch?v=vLBtrd9Ar28)
 
-### Latency
+### Latência
 - [Interactive Latency Infographics](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
 - :page_facing_up: [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
-### Time
+### Tempo
 - :page_facing_up: [Some notes about time](https://unix4lyfe.org/time/)
 - :movie_camera: [The Problem with Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
-### Memory
+### Memória
 - :page_facing_up: [What every Programmer should know about memory](https://lwn.net/Articles/250967/)
 
-### Distributed Systems
+### Sistemas Distribuídos
 - :book: [Understanding Distributed Systems](https://www.goodreads.com/book/show/56977420-understanding-distributed-systems)
 - :book: [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 - :scroll: [Designs, Lessons and Advice from Building Large Distributed Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
@@ -93,26 +93,26 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Jepsen: how different databases behave under partition](https://aphyr.com/tags/jepsen)
 - :scroll: [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 
-### Machine Learning
+### Aprendizado de Máquina
 - :school: [Andrew NG Machine Learning Specification Class](https://www.coursera.org/specializations/machine-learning-introduction)
 
-### RegExp
+### Expressões Regulares
 - :link: [RegexHQ](https://github.com/regexhq)
 - :link: [Learn regex the easy way](https://github.com/ziishaned/learn-regex)
 - :link: [Regex Crossword](https://regexcrossword.com/)
 
-### Security
+### Segurança
 - :book: [Security Programming](https://www.dwheeler.com/secure-programs/)
 - :page_facing_up: [Rolling Your Own Crypto](http://loup-vaillant.fr/articles/rolling-your-own-crypto)
 - :page_facing_up: [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 - :page_facing_up: [An Open Letter to Developers Everywhere (About Cryptography)](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 - :book: [Foundations of Security: What Every Programmer Needs to Know ](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
-- :page_facing_up: [OWASP Top 10](https://owasp.org/www-project-top-ten) - The "gold standard" for web application vulnerabilities.
-- :page_facing_up: [Portswigger Academy](https://portswigger.net) - Practical Labs for learning about web application security.
+- :page_facing_up: [OWASP Top 10](https://owasp.org/www-project-top-ten) - O "padrão ouro" para vulnerabilidades de aplicações web.
+- :page_facing_up: [Portswigger Academy](https://portswigger.net) - Laboratórios práticos para aprender sobre segurança de aplicações web.
 - :page_facing_up: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
 - :page_facing_up: [Hashing, Encryption and Encoding](https://www.integralist.co.uk/posts/hashing-and-encryption/)
 
-### UX/Usability
+### UX/Usabilidade
 - :book: [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 - :movie_camera: [Inventing on Principle](https://vimeo.com/906418692)
 
@@ -120,7 +120,7 @@ But knowing the stuff will help you become better! :muscle:*
 ### SEO
 - :page_facing_up: [What Every Programmer Should Know About SEO](https://katemats.com/blog/what-every-programmer-should-know-about-seo)
 
-### Architecture
+### Arquitetura
 - :scroll: [A Field Guide to Boxology](https://web.cs.wpi.edu/~cs562/s98/pdf/Boxology.pdf)
 - :scroll: [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf?raw=true)
 - :scroll: [No Silver Bullet — Essence and Accidents of Software Engineering](http://www.cs.unc.edu/techreports/86-020.pdf)
@@ -132,10 +132,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [How JavaScript works: part-1](https://medium.com/sessionstack-blog/how-does-javascript-actually-work-part-1-b0bacc073cf), [2](https://medium.com/sessionstack-blog/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e), [3](https://medium.com/sessionstack-blog/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec), [4](https://medium.com/sessionstack-blog/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
 - :movie_camera: [Entity-Component-System Architecture with Unity by example](https://www.youtube.com/watch?v=lNTaC-JWmdI&t=166s&list=PLZlJZzHmx31XvgT96DfbXQ4IMb1ryztbp&index=33)
 
-### Code Design
+### Design de Código
 - :page_facing_up: [Programming Principles Wiki](http://www.principles-wiki.net/)
 
-### Engineering Philosophy
+### Filosofia de Engenharia
 - :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
@@ -151,7 +151,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 
-### Practices
+### Práticas
 - :book: [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 - :book: [The Art of Readable Code: Simple and Practical Techniques for Writing Better Code](https://www.goodreads.com/ru/book/show/8677004-the-art-of-readable-code)
 - :book: [Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
@@ -164,15 +164,15 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [Thirteen Ways of Looking at a Turtle](https://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-3/)
 - :scroll: [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
-  Learn the basics of a language in a highly condensed way.
+  Aprenda o básico de uma linguagem de forma altamente condensada.
 - [Hyperpolyglot](http://hyperpolyglot.org/)
-  Compare commonly used features of more or less similar languages side-by-side. Helps you to jump Python<->Ruby, Ocaml<->Haskell, etc.
+  Compare recursos comumente usados de linguagens mais ou menos similares lado a lado. Ajuda você a alternar entre Python<->Ruby, Ocaml<->Haskell, etc.
 - :page_facing_up: [Pomodoro for Programmers](https://medium.com/@mr_mig_by/pomodoro-for-programmers-d6568dd1e6fc)
 - :book: [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
-### Career
+### Carreira
 - :moneybag: [Levels FYI](https://www.levels.fyi)  
-  Salary stats for various tech companies. Better than Glassdoor. 
+  Estatísticas salariais para diversas empresas de tecnologia. Melhor que o Glassdoor. 
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -181,18 +181,18 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [Soft Skills: The software developer's life manual](https://www.goodreads.com/book/show/23232941-soft-skills)
 - :book: [The Complete Software Developer's Career Guide](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 - :book: [Programming Beyond Practices: Be More Than Just a Code Monkey](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
-- [A list of European Investors](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
+- [Uma lista de Investidores Europeus](https://docs.google.com/spreadsheets/d/1hfl67rI0Pk_hSm0GIX0QByW4NgfAH-cEmMa4N6UoO1w/edit#gid=1203141194)
 - :page_facing_up: [Ten Rules for Negotiating a Job Offer](https://medium.com/free-code-camp/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - :page_facing_up: [How To Interview As a Developer Candidate](https://medium.freecodecamp.com/how-to-interview-as-a-developer-candidate-b666734f12dd)
 - :page_facing_up: [How To Get a Tech Job Abroad Faster](https://relocate.me/blog/job-relocation/landing-a-tech-job-abroad-7-simple-tips/#more-514)
 - :book: [How To Be A STAR Engineer](http://vlsicad.ucsd.edu/Research/Advice/star_engineer.pdf)
 - 📈 [TL;DR; Stock Options](https://web.archive.org/web/20190304234515/https://tldroptions.io/)
-    - [Discussion on HN #1](https://news.ycombinator.com/item?id=14463260)
-    - [Discussion on HN #2](https://news.ycombinator.com/item?id=19301570)
+    - [Discussão no HN #1](https://news.ycombinator.com/item?id=14463260)
+    - [Discussão no HN #2](https://news.ycombinator.com/item?id=19301570)
 - 📄 [The Open Guide to Equity Compensation](https://github.com/jlevy/og-equity-compensation)
 - :page_facing_up: [Equity 101 for Startup Employees](https://blog.carta.com/equity-101-stock-option-basics/)
 - :book: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
-- :fire: [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- :fire: [Tudo que você precisa saber para conseguir o emprego](https://github.com/kdn251/interviews)
 - :book: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - :page_facing_up: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
@@ -200,33 +200,33 @@ But knowing the stuff will help you become better! :muscle:*
 - :book: [97 things every programmer should know](https://github.com/97-things/97-things-every-programmer-should-know)
 - :movie_camera: [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://wwwtube.com/watch?v=bmSAYlu0NcY&t=403s)
 
-###  Fine-tune Your Resume 
+###  Aprimore Seu Currículo 
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
-### Open Source
+### Código Aberto
 - :globe_with_meridians: [Learn how to use Git and GitHub](https://www.deployhq.com/git)
 
-### Remote Work
+### Trabalho Remoto
 - :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
 - :globe_with_meridians: [Remote Work List for Developers](https://github.com/georgemandis/remote-working-list)
 - :zap: [NomadList](https://nomadlist.com/)
 - :book: [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
 - :house: [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
-### Problem Solving
+### Resolução de Problemas
 - :book: [The Art and Craft of Problem Solving](https://www.goodreads.com/book/show/593458.The_Art_and_Craft_of_Problem_Solving)
 - :book: [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/book/show/192221.How_to_Solve_It)
 
-### Soft Skills
+### Habilidades Interpessoais
 - :book: [Difficult Conversations](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 - :book: [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - :book: [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-### Mental Health
+### Saúde Mental
 - [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)  
-  A curated list of awesome articles, websites and resources about mental health in the software industry.
+  Uma lista curada de artigos, sites e recursos incríveis sobre saúde mental na indústria de software.
 
-### Papers on Programming
+### Artigos sobre Programação
 - :heart: [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - :newspaper: [The Morning Paper](https://blog.acolyer.org/)
 - 📜 [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
@@ -234,10 +234,10 @@ But knowing the stuff will help you become better! :muscle:*
 - :newspaper: [Arxiv](https://arxiv.org/)
 - :newspaper: [Sci-hub](https://sci-hub.se/)
 
-### Free Books on Programming
+### Livros Gratuitos sobre Programação
 - :books: [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
-### Services :zap:
+### Serviços :zap:
 - 🤖 [Abstract API's](https://www.abstractapi.com)
 - [Free For Dev](https://github.com/ripienaar/free-for-dev/blob/master/README.md)
 - [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
@@ -247,19 +247,19 @@ But knowing the stuff will help you become better! :muscle:*
 - [Learn Anything](https://learn-anything.xyz/)
 - [repl.it](https://repl.it/)
 
-### Licenses
+### Licenças
 - [Choose An Open Source License](https://choosealicense.com/)
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 - [How open source licenses work and how to add them to your projects](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94)
 
-### Where To Look For Further Info
+### Onde Buscar Mais Informações
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Dzone](https://dzone.com/)
 
-### Coding Practice Sites :zap:
+### Sites de Prática de Código :zap:
 - :link: [CodeForces](http://codeforces.com/)
 - :link: [CodeChef](https://www.codechef.com)
 - :link: [Coderbyte](https://coderbyte.com/)
@@ -287,7 +287,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [LabEx](https://labex.io/)
 - :link: [Codebattle](https://codebattle.hexlet.io/)
 
-### Learning through entertainment:
+### Aprendendo por Entretenimento:
 - [Robocode](https://robocode.sourceforge.io/)
 - [Elevatorsaga](https://play.elevatorsaga.com/)
 - [Untrusted](https://alexnisnevich.github.io/untrusted/)
@@ -295,25 +295,24 @@ But knowing the stuff will help you become better! :muscle:*
 - [CodingGame](https://www.codingame.com/start/)
 
 
-### Platform Engineering
+### Engenharia de Plataforma
 
-> A modern discipline that evolved from DevOps and SRE principles, focused on improving developer experience and productivity by building and managing self-service tools and workflows, often through an Internal Developer Platform (IDP). The goal is to reduce cognitive load on developers and streamline the path to production.
+> Uma disciplina moderna que evoluiu dos princípios de DevOps e SRE, focada em melhorar a experiência e produtividade do desenvolvedor através da construção e gestão de ferramentas e fluxos de trabalho de autoatendimento, frequentemente por meio de uma Plataforma Interna de Desenvolvimento (IDP). O objetivo é reduzir a carga cognitiva dos desenvolvedores e simplificar o caminho até a produção.
 
-- **What is Platform Engineering?**
+- **O que é Engenharia de Plataforma?**
     * [Microsoft Learn: What is platform engineering?](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)  
-    A comprehensive overview of the practice, its goals, and core capabilities.
+    Uma visão geral abrangente da prática, seus objetivos e capacidades principais.
     * [Atlassian: What is Platform Engineering?](https://www.atlassian.com/developer-experience/platform-engineering)  
-    A great explanation of the roles and responsibilities of a platform team.
+    Uma ótima explicação dos papéis e responsabilidades de uma equipe de plataforma.
 
-- **Internal Developer Platform (IDP)**
+- **Plataforma Interna de Desenvolvimento (IDP)**
     * [internaldeveloperplatform.org: What is an IDP?](https://internaldeveloperplatform.org/what-is-an-internal-developer-platform/)  
-    A foundational resource explaining the concept of an IDP as the core product of a platform team.
+    Um recurso fundamental que explica o conceito de IDP como o produto principal de uma equipe de plataforma.
     * [Atlassian: Internal Developer Platform Guide](https://www.atlassian.com/developer-experience/internal-developer-platform)  
-    A deep dive into the benefits and best practices for building an IDP.
+    Um aprofundamento nos benefícios e melhores práticas para construir uma IDP.
 
-- **Golden Paths (Paved Roads)**
+- **Golden Paths (Caminhos Dourados)**
     * [Spotify Engineering: How we use Golden Paths to solve fragmentation](https://backstage.spotify.com/learn/onboarding-software-to-backstage/setting-up-software-templates/11-spotify-templates/)  
-    The original concept from Spotify, explaining how they use "opinionated and supported paths" to guide developers.
+    O conceito original do Spotify, explicando como eles usam "caminhos opinativos e suportados" para guiar desenvolvedores.
     * [Red Hat: What is a Golden Path for software development?](https://www.redhat.com/en/topics/devops/golden-paths)  
-    * A clear article on how Golden Paths provide templates and standardized workflows to increase efficiency.
-
+    * Um artigo claro sobre como Golden Paths fornecem templates e fluxos de trabalho padronizados para aumentar a eficiência.

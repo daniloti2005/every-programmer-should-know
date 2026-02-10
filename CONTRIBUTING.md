@@ -1,86 +1,85 @@
-## The Goal
-Our goal is not to have the biggest list of stuff.
-Our goal is to have a **comprehensible** list of most valuable things any programmer should know about.
+## O Objetivo
+Nosso objetivo não é ter a maior lista de coisas possível.
+Nosso objetivo é ter uma lista **compreensível** das coisas mais valiosas que qualquer programador deveria saber.
 
-## Contributing
+## Contribuindo
 
-Your contributions to this repo are always welcome!
-Bear in mind, that this repo is *highly opinionated* and *curated*.
-Your opinion on value of any resource may not match the opinion of curator.
+Suas contribuições para este repositório são sempre bem-vindas!
+Tenha em mente que este repositório é *altamente opinativo* e *curado*.
+Sua opinião sobre o valor de qualquer recurso pode não corresponder à opinião do curador.
 
-**No PR will be discarded without explanations!**
+**Nenhum PR será descartado sem explicações!**
 
 
-## Core Values
-*Values are clickable*
+## Valores Fundamentais
+*Os valores são clicáveis*
 
-<details><summary>Less is more! :muscle:</summary><p>
+<details><summary>Menos é mais! :muscle:</summary><p>
 
-We :heart: simplicity.<br>
-We :heart: essential stuff.<br>
-We strive to have a smaller list of more valuable resources, quality over quantity.
+Nós :heart: simplicidade.<br>
+Nós :heart: o essencial.<br>
+Nos esforçamos para ter uma lista menor de recursos mais valiosos, qualidade acima de quantidade.
 </p></details>
 
-<details><summary>We :heart: widely applicable knowledge/skills. </summary><p>
+<details><summary>Nós :heart: conhecimento/habilidades amplamente aplicáveis. </summary><p>
 
-The world is not static. Everything changes.<br>
-This is why we prioritize strategically valuable skills/knowledge.<br>
-This is why there are so many philosophical resources in that list.
+O mundo não é estático. Tudo muda.<br>
+É por isso que priorizamos habilidades/conhecimentos estrategicamente valiosos.<br>
+É por isso que há tantos recursos filosóficos nesta lista.
 </p></details>
 
-<details><summary>We do not add to stress/hype level :zap: </summary><p>
+<details><summary>Não adicionamos estresse/hype :zap: </summary><p>
 
-There are enough stress sources in everybody's lifes.<br>
-We strive to be helpful without adding to the stress and creating hype.<br>
-Most endless stream resources (forums, newsletters, blogs, communities) are noisy and create questionable value.<br>
-Be mindful of that fact when adding resources.
+Já existem fontes de estresse suficientes na vida de todos.<br>
+Nos esforçamos para ser úteis sem adicionar estresse e criar hype.<br>
+A maioria dos recursos de fluxo contínuo (fóruns, newsletters, blogs, comunidades) são ruidosos e criam valor questionável.<br>
+Tenha isso em mente ao adicionar recursos.
 </p></details>
 
-<details><summary>Technology is always about human beings :man: :woman: :baby:.</summary><p>
+<details><summary>Tecnologia é sempre sobre seres humanos :man: :woman: :baby:.</summary><p>
 
-We do not code in sake of coding. We code to solve other people's problems.<br>
-This is why resources on soft skills are an essential part of that list.
+Não programamos por programar. Programamos para resolver problemas de outras pessoas.<br>
+É por isso que recursos sobre habilidades interpessoais são uma parte essencial desta lista.
 </p></details>
 
-## Guidelines
-*Guidelines are clickable*
+## Diretrizes
+*As diretrizes são clicáveis*
 
-<details><summary>Do not add things you <b>have not evaluated</b> personally!</summary><p>
+<details><summary>Não adicione coisas que você <b>não avaliou</b> pessoalmente!</summary><p>
 
-Use your critical thinking to filter out non-essential stuff.
-Give honest arguments for why the resource should be included.
-Have you read this book?
-Can you give a short article?
+Use seu pensamento crítico para filtrar o que não é essencial.
+Dê argumentos honestos sobre por que o recurso deveria ser incluído.
+Você leu este livro?
+Você pode fornecer um breve artigo?
 </p></details>
 
-<details><summary>Use reasoning based on our values.</summary><p>
+<details><summary>Use raciocínio baseado em nossos valores.</summary><p>
 
-Before adding any resource, answer this questions to yourself:
-- Will it make every programmer a better human being?
-- Will it change the quality of programmer's work?
-- Will it change the quality of programmer's life?
-- Would you personally recommend this resource to your friend, starting on software development career?
+Antes de adicionar qualquer recurso, responda estas perguntas para si mesmo:
+- Isso tornará todo programador um ser humano melhor?
+- Isso mudará a qualidade do trabalho do programador?
+- Isso mudará a qualidade de vida do programador?
+- Você pessoalmente recomendaria este recurso para um amigo que está começando na carreira de desenvolvimento de software?
 
 </p></details>
 
-<details><summary><b>One item</b> per Pull Request.</summary><p>
+<details><summary><b>Um item</b> por Pull Request.</summary><p>
 
-There may be a discussion related to an item you want to add.
-Adding just a single item per pull request makes it much easier for everyone involved.
+Pode haver uma discussão relacionada a um item que você deseja adicionar.
+Adicionar apenas um único item por pull request facilita muito para todos os envolvidos.
 </p></details>
 
-<details><summary>Do not open issues with resources, create a Pull Request instead!</summary><p>
+<details><summary>Não abra issues com recursos, crie um Pull Request em vez disso!</summary><p>
 
-It is just easier to discuss and decide on a resource within a Pull Request.
+É simplesmente mais fácil discutir e decidir sobre um recurso dentro de um Pull Request.
 </p></details>
 
-<details><summary>Use consistent set of resource type emoji.</summary><p>
+<details><summary>Use um conjunto consistente de emojis de tipo de recurso.</summary><p>
 
-🎥 - Video/Talk
-📖 - Book
-📄 - Online article
-📜 - Paper/Document
+🎥 - Vídeo/Palestra
+📖 - Livro
+📄 - Artigo online
+📜 - Artigo/Documento
 ✅ - Checklist
 
 </p></details>
-
